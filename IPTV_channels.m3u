@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/765Cn9I.png" group-title="Education",TV Cultura
+rtp://239.0.55.9:5004
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="",98 Live (Belo Horizonte)
+rtp://239.0.55.98:5004
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/4GKZbXD.png" group-title="General",TVCI Paranaguá
+rtp://239.0.55.100:5004
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="Sport",ALL Sports
+rtp://239.0.55.200:5004
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Swedish" tvg-logo="https://i.imgur.com/mvwiSqt.png" group-title="",TV 4
+rtp://239.0.46.1:5004
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/mdNV8tQ.jpg" group-title="News",Australia Channel
+rtp://239.0.61.1:5004
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Kids",3ABN KIDS TV
+rtp://239.0.1.5:5004
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/V8eTp2V.png" group-title="News",ABC News Digital 10
+rtp://239.0.1.10:5004
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/hjvjGVf.png" group-title="",American Classic Network
+rtp://239.0.1.50:5004
