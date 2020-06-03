@@ -5,60 +5,20 @@
 rtp://239.0.0.5:5004
 
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="",98 Live (Belo Horizonte) - 239.0.55.31
-rtp://239.0.0.31:5004
-
-#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/FZwHq8k.png" group-title="News",CBN São Paulo - 239.0.55.11
 rtp://239.0.0.11:5004
-
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" group-title="",Record News - 239.0.0.150
-rtp://239.0.0.150:5004
-
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-name="Blomberg US" tvg-id="CBS Eastern US" group-title="USA" tvg-logo="https://i.imgur.com/idRFfhY.png",Blomberg US - 239.1.1.1
-rtp://239.1.1.1:5004
-
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-name="CBSN" tvg-id="CBS Eastern US" group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/CBS_Eyemark.svg/220px-CBS_Eyemark.svg.png",CBSN - 239.1.1.2
-rtp://239.1.1.2:5004
-
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/MaQSYGw.jpg" group-title="",Action Sports 4U - 239.1.1.3
-rtp://239.1.1.3:5004
 
 #EXTVLCOPT:network-caching=1000
 EXTINF:-1 tvg-id="California Music Channel(CMTV)-US" tvg-name="California Music Channel(CMTV)-US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cmc-cali-tv.png" group-title="Music",California Music Channel - 239.1.1.4
 rtp://239.1.1.4:5004
 
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://pmcdeadline2.files.wordpress.com/2018/10/et-live1-e1541006731547.png" group-title="News",Entertainment Tonight - 239.1.1.5
-rtp://239.1.1.5:5004
-
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://assets.tvplayer.com/tvos/images/channels/585.png" group-title="",Fail Army - 239.1.1.6
-rtp://239.1.1.6:5004
-
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/iJldO7U.jpg" group-title="",NASA TV - 239.1.1.7
-rtp://239.1.1.7:5004
-
-#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="BBC News UK" tvg-name="BBC News UK" tvg-language="English" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="News",BBC News - 239.44.100.100
 rtp://239.44.100.100:5004
 
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="" tvg-name="Aarhus TV" tvg-logo="https://www.tvaarhus.dk/files/sitelogo.png" group-title="DENEMARK",Aarhus TV - 239.45.1.1
-rtp://239.45.1.1:5004
-
-#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-name="TV2 Bornholm" tvg-id="TV2bornholm.dk" group-title="DENEMARK" tvg-logo="https://i.imgur.com/ylB5ea2.jpg",TV2 Bornholm - 239.45.1.100
 rtp://239.45.1.100:5004
-
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sZ1yE4e.png" group-title="",9 MULTIVISION HD - 239.54.1.1
-rtp://239.54.1.1:5004
 
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/mdNV8tQ.jpg" group-title="News",Australia Channel - 239.61.200.200
