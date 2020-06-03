@@ -9,8 +9,8 @@ rtp://239.0.0.5:5004
 rtp://239.0.0.11:5004
 
 #EXTVLCOPT:network-caching=1000
-EXTINF:-1 tvg-id="California Music Channel(CMTV)-US" tvg-name="California Music Channel(CMTV)-US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cmc-cali-tv.png" group-title="Music",California Music Channel - 239.1.1.4
-rtp://239.1.1.4:5004
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://assets.tvplayer.com/tvos/images/channels/585.png" group-title="",Fail Army - 239.1.1.6
+rtp://239.1.1.6:5004
 
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="BBC News UK" tvg-name="BBC News UK" tvg-language="English" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="News",BBC News - 239.44.100.100
