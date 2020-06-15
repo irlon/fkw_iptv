@@ -1,0 +1,13 @@
+# Chaves
+cvlc -v "home/furukawa/IPTV/Videos/SBT_Chaves.mp4" --sout '#rtp{dst=239.0.0.5,port=5004}' --loop &
+sleep 10
+
+# Ariano Suassuna
+cvlc -v "/home/furukawa/IPTV/Videos/CanalBrasil_Suassuna.mp4" --sout '#rtp{dst=239.0.0.9,port=5004}' --loop &
+sleep 10
+
+# Globo Repórter
+cvlc -v "/home/furukawa/IPTV/Videos/Globo_Reporter.mp4" --sout '#rtp{dst=239.0.0.12,port=5004}' --loop &
+sleep 10
+
+python3 -m http.server 80
